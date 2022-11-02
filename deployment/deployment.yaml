@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: tour-of-heroes
+  name: tour-of-heroes-frontend
   namespace: heroes-app
 spec:
   selector:
